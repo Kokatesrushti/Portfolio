@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The Link to the project is: https://648847b632e59c10ea73f8b2--sensational-genie-6620cc.netlify.app/
+The Link to the project is: https://648afbc443d0dd0a8332ef19--peppy-sprinkles-e16552.netlify.app/
